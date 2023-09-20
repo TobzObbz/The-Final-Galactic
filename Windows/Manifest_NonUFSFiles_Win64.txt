@@ -1,0 +1,24 @@
+The_Final_Galactic/Binaries/Win64/D3D12/D3D12Core.dll	2022-10-18T14:23:42.436Z
+The_Final_Galactic/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2022-10-18T14:23:42.586Z
+The_Final_Galactic/Binaries/Win64/OpenImageDenoise.dll	2022-05-16T15:17:20.936Z
+The_Final_Galactic/Binaries/Win64/tbb.dll	2022-05-16T14:52:50.512Z
+The_Final_Galactic/Binaries/Win64/tbb12.dll	2022-05-16T15:17:16.943Z
+The_Final_Galactic/Binaries/Win64/The_Final_Galactic.exe	2023-07-31T12:34:04.093Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2022-05-16T14:59:12.254Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2022-05-16T14:52:14.108Z
+Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-05-16T14:52:56.088Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2022-05-16T14:52:56.196Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2022-05-16T14:52:57.900Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2022-05-16T14:53:06.702Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2022-05-16T14:53:06.922Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2022-05-16T14:53:07.450Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2022-05-16T14:53:07.847Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2022-05-16T14:53:08.030Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2022-05-16T14:53:15.722Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2022-05-16T14:53:15.723Z
+Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2022-05-16T14:53:16.315Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-05-16T14:53:16.921Z
+The_Final_Galactic/Content/Movies/Drag Item Tutorial.mp4	2023-04-19T15:11:40.688Z
+The_Final_Galactic/Content/Movies/Interact_Tutorial.mp4	2023-04-19T13:09:57.252Z
+The_Final_Galactic/Content/Movies/Open_Inventory_Tutorial.mp4	2023-04-19T15:10:51.478Z
+The_Final_Galactic.exe	2023-07-31T12:36:11.885Z
